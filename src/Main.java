@@ -12,7 +12,6 @@ public class Main {
                 System.out.print(i);
                 toplam = toplam + i;
                 n++;
-
             }
         }
         ortalama = toplam/n;
